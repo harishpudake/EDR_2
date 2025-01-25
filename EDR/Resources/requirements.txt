@@ -1,0 +1,6 @@
+psutil
+pymsgbox
+plyer
+watchdog
+customtkinter
+pillow
